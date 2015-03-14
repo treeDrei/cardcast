@@ -1,0 +1,19 @@
+.info {
+    position: absolute;
+    left: 30px;
+    margin: 0;
+    font-size: 30px;
+    line-height: 36px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#log {
+    bottom: 30px;
+    color: cadetblue;
+}
+
+#message {
+    top: 30px;
+    color: crimson;
+    background-color: rgba(255, 255, 255, .9)
+}
